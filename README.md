@@ -13,5 +13,8 @@ Features:
 • PNG/PDF export support
 • Fully responsive futuristic dashboard UI
 
+link:
+https://future-regret-simulator.netlify.app/
+
 Tech Stack:
 Next.js • React • TypeScript • Tailwind CSS • html2canvas • jsPDF
